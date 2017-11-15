@@ -1,7 +1,7 @@
 #!/usr/bin/python
 # Cpurcell - this is to test the complex math function
 #
-import complex as cm
+import complexmath as cm
 
 response1 = raw_input("are you using Rectangular notation (R) or Polar (P)")
 response2 = raw_input("First number (x,y) :")
